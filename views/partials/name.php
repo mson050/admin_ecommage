@@ -1,0 +1,1 @@
+<a id="name" href="#" class="dropdown-toggle" data-toggle="dropdown"><?= Session::get('user')['fullname'] ?> <b class="caret"></b></a>
